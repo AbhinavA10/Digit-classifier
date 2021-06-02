@@ -18,3 +18,10 @@ Skeleton is based on [this article](https://keras.io/examples/vision/mnist_convn
 conda activate digits
 conda env update --file environment_digits.yml
 ```
+
+## Next Steps:
+- cleanup code
+- train on Kaggle
+- add Data Augmentation if needed
+- view graphs in Tensorboard
+- use model on our own custom image
